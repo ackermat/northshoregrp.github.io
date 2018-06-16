@@ -12,6 +12,10 @@ h6 {
   font-weight: 700;
 }
 
+a:link {
+  color: DCDDE0;
+}
+
 header.masthead {
   position: relative;
   background-color: #343a40;
