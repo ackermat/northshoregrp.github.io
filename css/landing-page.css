@@ -24,8 +24,8 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding-top: 8rem; /*8*/
-  padding-bottom: 8rem; /*8*/
+  padding-top: 20rem; /*8*/
+  padding-bottom: 20rem; /*8*/
 }
 
 header.masthead .overlay {
