@@ -2365,12 +2365,14 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #5B84AB; /*007bff*/
   border-color: #5B84AB; /*007bff*/
+  border: 1px solid #5B84AB;
 }
 
 .buttonheader:hover {
   color: #fff;
   background-color: #32495E; /*0069d9*/
   border-color: #32495E; /*0069d9*/
+  border: 1px solid #32495E;
 }
 
 .btn-primary {
