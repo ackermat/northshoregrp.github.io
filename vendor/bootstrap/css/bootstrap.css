@@ -477,6 +477,11 @@ mark,
   content: "\2014 \00A0";
 }
 
+.center-justify {
+  text-align: justify;
+  text-align-last: center;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
